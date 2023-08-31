@@ -281,7 +281,7 @@ function displayMealDetails(meal) {
         <a target="_blank" href="${meal.strSource}" class="btn btn-success">Source</a>
         <a target="_blank" href="${meal.strYoutube}" class="btn btn-danger">Youtube</a>
     </div>`
-
+    
     rowContaine.innerHTML = box
 }
 
